@@ -22,6 +22,7 @@ decodedContent = encodedContent.decode("utf8")
 # Выводим содержимое файла, полученного с сервера ('index.html').
 
 print(decodedContent)
+print('sad')
 
 # Закрываем соединение с сервером.
 
